@@ -21,4 +21,3 @@ message = completions.choices[0].text
 
 # Print the generated text
 print(message)
-
